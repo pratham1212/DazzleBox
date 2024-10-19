@@ -1,0 +1,210 @@
+[
+    {
+        "id": 1,
+        "name": "Product 1",
+        "price": 149,
+        "availability": "In stock",
+        "description": "Premium quality product ideal for everyday use.",
+        "images": [
+            "AllPhotoes/img1.jpg",
+            "AllPhotoes/img2.jpg",
+            "AllPhotoes/img3.jpg",
+            "AllPhotoes/img4.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Product 2",
+        "price": 49,
+        "availability": "In stock",
+        "description": "Affordable and reliable product with versatile applications.",
+        "images": [
+            "AllPhotoes/img5.jpg",
+            "AllPhotoes/img6.jpg",
+            "AllPhotoes/img7.jpg",
+            "AllPhotoes/img8.jpg"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Product 3",
+        "price": 99,
+        "availability": "Limited stock",
+        "description": "Compact design with powerful performance.",
+        "images": [
+            "AllPhotoes/img9.jpg",
+            "AllPhotoes/img10.jpg",
+            "AllPhotoes/img11.jpg",
+            "AllPhotoes/img12.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Product 39",
+        "price": 99,
+        "availability": "In stock",
+        "description": "Eco-friendly product made with sustainable materials.",
+        "images": [
+            "AllPhotoes/img153.jpg",
+            "AllPhotoes/img154.jpg",
+            "AllPhotoes/img155.jpg",
+            "AllPhotoes/img156.jpg"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Product 1",
+        "price": 149,
+        "availability": "In stock",
+        "description": "Premium quality product ideal for everyday use.",
+        "images": [
+            "AllPhotoes/img1.jpg",
+            "AllPhotoes/img2.jpg",
+            "AllPhotoes/img3.jpg",
+            "AllPhotoes/img4.jpg"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Product 2",
+        "price": 49,
+        "availability": "In stock",
+        "description": "Affordable and reliable product with versatile applications.",
+        "images": [
+            "AllPhotoes/img5.jpg",
+            "AllPhotoes/img6.jpg",
+            "AllPhotoes/img7.jpg",
+            "AllPhotoes/img8.jpg"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Product 3",
+        "price": 99,
+        "availability": "Limited stock",
+        "description": "Compact design with powerful performance.",
+        "images": [
+            "AllPhotoes/img9.jpg",
+            "AllPhotoes/img10.jpg",
+            "AllPhotoes/img11.jpg",
+            "AllPhotoes/img12.jpg"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Product 39",
+        "price": 99,
+        "availability": "In stock",
+        "description": "Eco-friendly product made with sustainable materials.",
+        "images": [
+            "AllPhotoes/img153.jpg",
+            "AllPhotoes/img154.jpg",
+            "AllPhotoes/img155.jpg",
+            "AllPhotoes/img156.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Product 1",
+        "price": 149,
+        "availability": "In stock",
+        "description": "Premium quality product ideal for everyday use.",
+        "images": [
+            "AllPhotoes/img1.jpg",
+            "AllPhotoes/img2.jpg",
+            "AllPhotoes/img3.jpg",
+            "AllPhotoes/img4.jpg"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Product 2",
+        "price": 49,
+        "availability": "In stock",
+        "description": "Affordable and reliable product with versatile applications.",
+        "images": [
+            "AllPhotoes/img5.jpg",
+            "AllPhotoes/img6.jpg",
+            "AllPhotoes/img7.jpg",
+            "AllPhotoes/img8.jpg"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Product 3",
+        "price": 99,
+        "availability": "Limited stock",
+        "description": "Compact design with powerful performance.",
+        "images": [
+            "AllPhotoes/img9.jpg",
+            "AllPhotoes/img10.jpg",
+            "AllPhotoes/img11.jpg",
+            "AllPhotoes/img12.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Product 39",
+        "price": 99,
+        "availability": "In stock",
+        "description": "Eco-friendly product made with sustainable materials.",
+        "images": [
+            "AllPhotoes/img153.jpg",
+            "AllPhotoes/img154.jpg",
+            "AllPhotoes/img155.jpg",
+            "AllPhotoes/img156.jpg"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Product 1",
+        "price": 149,
+        "availability": "In stock",
+        "description": "Premium quality product ideal for everyday use.",
+        "images": [
+            "AllPhotoes/img1.jpg",
+            "AllPhotoes/img2.jpg",
+            "AllPhotoes/img3.jpg",
+            "AllPhotoes/img4.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Product 2",
+        "price": 49,
+        "availability": "In stock",
+        "description": "Affordable and reliable product with versatile applications.",
+        "images": [
+            "AllPhotoes/img5.jpg",
+            "AllPhotoes/img6.jpg",
+            "AllPhotoes/img7.jpg",
+            "AllPhotoes/img8.jpg"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Product 3",
+        "price": 99,
+        "availability": "Limited stock",
+        "description": "Compact design with powerful performance.",
+        "images": [
+            "AllPhotoes/img9.jpg",
+            "AllPhotoes/img10.jpg",
+            "AllPhotoes/img11.jpg",
+            "AllPhotoes/img12.jpg"
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Product 39",
+        "price": 99,
+        "availability": "In stock",
+        "description": "Eco-friendly product made with sustainable materials.",
+        "images": [
+            "AllPhotoes/img153.jpg",
+            "AllPhotoes/img154.jpg",
+            "AllPhotoes/img155.jpg",
+            "AllPhotoes/img156.jpg"
+        ]
+    }
+]
